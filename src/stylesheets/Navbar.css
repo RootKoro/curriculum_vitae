@@ -1,0 +1,26 @@
+nav{
+    font-size: 22px;
+    width: 80%;
+    right: 0;
+}
+
+ul{
+    float: right;
+    display: inline-flex;
+}
+
+li{
+    padding-left: 25px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #328ab3;
+}
+
+a:hover{
+    color: #4c8b28;
+    box-shadow: 1px 1px 2px 2px #328ab369;
+    padding: 5px;
+}
